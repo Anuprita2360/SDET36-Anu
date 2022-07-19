@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-18T09:43:51 IST" name="Default suite" finished-at="2022-07-18T09:44:17 IST" duration-ms="26091">
+    <groups>
+    </groups>
+    <test started-at="2022-07-18T09:43:51 IST" name="Default test" finished-at="2022-07-18T09:44:17 IST" duration-ms="26091">
+      <class name="testngImplementation.Campaign">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:testngImplementation.Campaign@cc43f62]" started-at="2022-07-18T09:43:51 IST" name="configBC" finished-at="2022-07-18T09:43:58 IST" duration-ms="6877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testngImplementation.Campaign@cc43f62]" started-at="2022-07-18T09:43:58 IST" name="BeforeMethod" finished-at="2022-07-18T09:44:01 IST" duration-ms="3361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="campaignmodule_Test()[pri:0, instance:testngImplementation.Campaign@cc43f62]" started-at="2022-07-18T09:44:01 IST" name="campaignmodule_Test" finished-at="2022-07-18T09:44:15 IST" duration-ms="13440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- campaignmodule_Test -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:testngImplementation.Campaign@cc43f62]" started-at="2022-07-18T09:44:15 IST" name="AfterMethod" finished-at="2022-07-18T09:44:17 IST" duration-ms="1982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:testngImplementation.Campaign@cc43f62]" started-at="2022-07-18T09:44:17 IST" name="AfterClass" finished-at="2022-07-18T09:44:17 IST" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method is-config="true" signature="AfterSuite()[pri:0, instance:testngImplementation.Campaign@cc43f62]" started-at="2022-07-18T09:44:17 IST" name="AfterSuite" finished-at="2022-07-18T09:44:17 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- testngImplementation.Campaign -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

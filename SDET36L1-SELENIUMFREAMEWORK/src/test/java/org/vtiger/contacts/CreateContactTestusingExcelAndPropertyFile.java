@@ -95,6 +95,7 @@ public class CreateContactTestusingExcelAndPropertyFile {
 		WebElement admistrator = driver.findElement(By.xpath("//img[@src='themes/softed/images/user.PNG']"));
 		seleniumusability.mouseHoverOnElement(admistrator);
 		driver.findElement(By.xpath("//a[text()='Sign Out']")).click();
+		System.out.println("TC Pass");
 		
 		//close the browser
 		seleniumusability.closeBrowser();

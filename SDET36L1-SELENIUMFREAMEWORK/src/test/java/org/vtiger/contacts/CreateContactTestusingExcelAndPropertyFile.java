@@ -96,7 +96,7 @@ public class CreateContactTestusingExcelAndPropertyFile {
 		seleniumusability.mouseHoverOnElement(admistrator);
 		driver.findElement(By.xpath("//a[text()='Sign Out']")).click();
 		System.out.println("TC Pass"+"Contact");
-		System.out.println("AnuGuddu");
+		System.out.println("AnuNilesh");
 		
 		//close the browser
 		seleniumusability.closeBrowser();

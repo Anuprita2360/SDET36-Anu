@@ -13,7 +13,8 @@ public class DataConverter2 {
 		System.out.println(s1);
 		int d = DateTimeFormatter.ofPattern("MMMM").withLocale(Locale.ENGLISH).parse(s1).get(ChronoField.MONTH_OF_YEAR);
         System.out.println(d);
-		//Converting Dates
+		//Converting month
+		//Converting year
 	}
 
 }

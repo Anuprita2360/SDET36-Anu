@@ -98,6 +98,7 @@ public class CreateContactTestusingExcelAndPropertyFile {
 		System.out.println("TC Pass"+"Contact");
 		System.out.println("AnuNilesh Raut................");
 		System.out.println("Amit Kumar..........................");
+		System.out.println("hiii amit");
 		
 		//close the browser
 		seleniumusability.closeBrowser();

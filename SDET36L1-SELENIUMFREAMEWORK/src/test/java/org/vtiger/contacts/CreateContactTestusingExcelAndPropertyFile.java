@@ -97,7 +97,7 @@ public class CreateContactTestusingExcelAndPropertyFile {
 		driver.findElement(By.xpath("//a[text()='Sign Out']")).click();
 		System.out.println("TC Pass"+"Contact");
 		System.out.println("AnuNilesh Raut................");
-		System.out.println("sdsjanh...............................");
+		System.out.println("Amit Kumar..........................");
 		
 		//close the browser
 		seleniumusability.closeBrowser();
